@@ -1,8 +1,8 @@
 import * as firebase from "firebase";
 
-//first projet = development database
+//1ere projet = development database
 const devConfig = {
-    apiKey: "AIzaSyC4l1ODnl1dhTlUN5zT8ZbcjTuKX43A8-0",
+    apiKey: "AIzaSyC4l1ODnl1dhTlUN5zT8ZbcjTuKX43A8-",
     authDomain: "ldapptest-34664.firebaseapp.com",
     databaseURL: "https://ldapptest-34664.firebaseio.com",
     projectId: "ldapptest-34664",
@@ -10,8 +10,8 @@ const devConfig = {
     messagingSenderId: "983554343988"
 }
 
-//second projet = production database
-const prodConfig = {
+//2eme projet = production database
+const pr0odConfig = {
     apiKey: "AIzaSyBYzBRkKSZT3w7dh5bv9KSy7JuwA714oXk",
     authDomain: "ldapp-4878a.firebaseapp.com",
     databaseURL: "https://ldapp-4878a.firebaseio.com",
